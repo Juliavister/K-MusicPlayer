@@ -25,8 +25,10 @@ let track_list = [
     {
         name: "Reason",
         artist: "KAI",
-        image: "/TrackART/ReasonArt.png",
-        path: "/Songs/Reason.mp3"
+        //image: "/TrackART/ReasonArt.png",
+        image: "/Users/juliavister/Documents/GitHub/K-MusicPlayer/TrackART/ReasonArt.png",
+       // path: "/Songs/Reason.mp3"
+        path: "/Users/juliavister/Documents/GitHub/K-MusicPlayer/Songs/Reason.mp3"
     },
     {
         name: "BTBT",
